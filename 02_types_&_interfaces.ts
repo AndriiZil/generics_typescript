@@ -1,4 +1,4 @@
-import { Message } from './index';
+import { Message, User } from './index';
 
 interface State<T> {
     loading: boolean;

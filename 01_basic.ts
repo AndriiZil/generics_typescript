@@ -5,7 +5,7 @@ function identity<T>(arg: T) {
     return arg;
 }
 
-interface User {
+export interface User {
     name: string;
     age: number;
 }
